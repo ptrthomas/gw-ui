@@ -2,7 +2,7 @@
 Feature: View Claim Summary
     As a user I want to View Claim Summary Page
 
-    @ViewClaimSummary
+    @ViewClaimSummary @search_claim
     Scenario: Viewing the summary of an claim
         Given the user logs into the claims center
         When the user loads the data "defaultDataSet" from json "CreateClaimAddNoteTestData"
