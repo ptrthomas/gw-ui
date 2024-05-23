@@ -1,0 +1,87 @@
+[
+  {
+    "description": "Feature: Add Activity in Claim center",
+    "elements": [
+      {
+        "id": "ScenarioAdd Activity in Claim center;Scenario: Adding the activity",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Adding the activity",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Users\\RasagnaYadavVanga\\GT_UI_New\\behavior\\features\\gw\\cc\\AddActivity.feature:1:0"
+            },
+            "name": "Scenario: Adding the activity",
+            "result": {
+              "duration": 79212,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Scenario: Adding the activity</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Feature: Add Activity in Claim center",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "app": {},
+      "browser": {
+        "name": "chrome",
+        "version": "124.0.0.0"
+      },
+      "device": "Windows",
+      "platform": {
+        "name": "windows",
+        "version": "10"
+      }
+    },
+    "name": "Add Activity in Claim center",
+    "runInfo": {
+      "endTime": "2024-05-22T15:06:01.947Z",
+      "passed": 1,
+      "startTime": "2024-05-22T15:04:42.689Z",
+      "testCount": 1,
+      "userAgents": [
+        "Chrome 124.0.0.0 / Windows 10"
+      ],
+      "warnings": []
+    },
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@add"
+      },
+      {
+        "line": 0,
+        "name": "@activity"
+      },
+      {
+        "line": 0,
+        "name": "@claim"
+      },
+      {
+        "line": 0,
+        "name": "@center"
+      },
+      {
+        "line": 0,
+        "name": "@adding"
+      }
+    ],
+    "uri": "C:\\Users\\RasagnaYadavVanga\\GT_UI_New\\behavior\\features\\gw\\cc\\AddActivity.feature:1"
+  }
+]
